@@ -8,3 +8,6 @@ media/
 n98-magerun.phar
  
 var/
+app/code/community/Aoe/
+app/etc/modules/Aoe_TemplateHints.xml
+skin/frontend/base/default/aoe_templatehints/
